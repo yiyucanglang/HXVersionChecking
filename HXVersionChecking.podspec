@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'HXWebView'
+  s.name             = 'HXVersionChecking'
   s.version          = '0.0.1'
   s.summary          = 'convenient version checking module'
 
